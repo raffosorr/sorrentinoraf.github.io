@@ -1,11 +1,11 @@
 theme: jekyll-theme-cayman
-title: Caterina Aurilia
-name: Caterina Aurilia
-description: Hi there! I'm Caterina, born in 2001, based in Naples (Italy), and this is my personal website!
+title: Raffaele Sorrentino
+name: Raffaele Sorrentino
+description: Hello world! I'm Raffaele, born in 1997, based in Naples (Italy), and this is my personal website!
 
 lsi: false
 safe: true
-source: cateaurilia.github.io
+source: sorrentinoraf.github.io
 incremental: false
 highlighter: rouge
 gist:
